@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-
-=======
-# motoko-bootcamp
+# motoko-bootcamp-dancmartin11
 This repository contains practice code for Web3 canister development in ICP blockchain using Motoko (Motoko Bootcamp for ICP Motoko Developer Certification).
 
-# `motoko_bootcamp`
+## `motoko_bootcamp`
 
 Welcome to your new `motoko_bootcamp` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
