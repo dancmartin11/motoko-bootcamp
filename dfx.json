@@ -1,7 +1,7 @@
 {
   "canisters": {
     "motoko_bootcamp_backend": {
-      "main": "src/motoko_bootcamp_backend/main.mo",
+      "main": "src/motoko_bootcamp_backend/activity_day2.mo",
       "type": "motoko"
     },
     "motoko_bootcamp_frontend": {
