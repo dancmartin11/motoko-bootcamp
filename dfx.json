@@ -1,17 +1,12 @@
 {
   "canisters": {
-    "motoko_bootcamp_backend": {
-      "main": "src/motoko_bootcamp_backend/activity_day2.mo",
+    "motoko_bootcamp_day2": {
+      "main": "src/activity_day2.mo",
       "type": "motoko"
     },
-    "motoko_bootcamp_frontend": {
-      "dependencies": [
-        "motoko_bootcamp_backend"
-      ],
-      "source": [
-        "src/motoko_bootcamp_frontend/assets"
-      ],
-      "type": "assets"
+    "motoko_bootcamp_day3": {
+      "main": "src/activity_day3.mo",
+      "type": "motoko"
     }
   },
   "defaults": {
