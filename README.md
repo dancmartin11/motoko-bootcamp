@@ -18,7 +18,7 @@ This repository contains practice code for Web3 canister development in ICP bloc
 
 ## Day 4 Exercise
 
-- **Description**: 
+- **Description**: Create a new project using `dfx new`, written in Motoko language, without a frontend, and integrated with Internet Identity for authentication.
 
 
 ## Day 5 Exercise
