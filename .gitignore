@@ -23,3 +23,8 @@ dist/
 
 # environment variables
 .env
+
+# Mops folder
+.mops
+
+.vscode/

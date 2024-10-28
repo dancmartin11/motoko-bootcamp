@@ -12,6 +12,11 @@
       "main": "src/activity_day4.mo",
       "type": "motoko"
     },
+    "motoko_bootcamp_day5": {
+      "main": "src/activity_day5.mo",
+      "type": "motoko"
+    }
+,
     "internet_identity": {
       "type": "custom",
       "candid": "https://github.com/dfinity/internet-identity/releases/download/release-2024-10-25/internet_identity.did",
@@ -28,7 +33,7 @@
   "defaults": {
     "build": {
       "args": "",
-      "packtool": ""
+      "packtool": "mops sources"
     }
   },
   "output_env_file": ".env",

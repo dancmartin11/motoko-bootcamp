@@ -3,7 +3,7 @@ This repository contains practice code for Web3 canister development in ICP bloc
 
 ---
 
-`src`: Contains the source code for the activities for each day in the Motoko Bootcamp.
+`src`: Contains the source code for the activities for each day in the Motoko Bootcamp. Also contains types.mo, file for the `types` custom module.
 `dfx.json`: JSON file for creating canisters in dfx.
 
 ## Day 2 Exercise
@@ -23,4 +23,4 @@ This repository contains practice code for Web3 canister development in ICP bloc
 
 ## Day 5 Exercise
 
-- **Description**: 
+- **Description**: After adding modules in the live session and worked with the Map module, create a function that converts the map into the appropriate structure that matches the UserResult type, in order for the canister to query the users' data (`id`, `firstName`, and `lastName`).
